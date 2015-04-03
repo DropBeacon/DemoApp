@@ -10,36 +10,31 @@
 	<string>DropBeaconDemo</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>75cb06c4-d105-4f2c-a8c3-b1a58cf26592++5908</key>
-		<string>http://svn.edaoyou.com/dropbeacon/DropBeaconSDK/Platform-Version</string>
+		<key>8F883F95B57B98BBAC064FFDA4E3BC1875033F75</key>
+		<string>https://github.com/DropBeacon/DemoApp.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>DemoApp/DropBeaconDemo.xcodeproj</string>
+	<string>DropBeaconDemo.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>75cb06c4-d105-4f2c-a8c3-b1a58cf26592++5908</key>
-		<string>../../..</string>
-	</dict>
-	<key>IDESourceControlProjectRepositoryRootDictionary</key>
-	<dict>
-		<key>75cb06c4-d105-4f2c-a8c3-b1a58cf26592++5908</key>
-		<string>http://svn.edaoyou.com/dropbeacon</string>
+		<key>8F883F95B57B98BBAC064FFDA4E3BC1875033F75</key>
+		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>http://svn.edaoyou.com/dropbeacon/DropBeaconSDK/Platform-Version/DemoApp/DropBeaconDemo.xcodeproj</string>
+	<string>https://github.com/DropBeacon/DemoApp.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>75cb06c4-d105-4f2c-a8c3-b1a58cf26592++5908</string>
+	<string>8F883F95B57B98BBAC064FFDA4E3BC1875033F75</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
-			<string>public.vcs.subversion</string>
+			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>75cb06c4-d105-4f2c-a8c3-b1a58cf26592++5908</string>
+			<string>8F883F95B57B98BBAC064FFDA4E3BC1875033F75</string>
 			<key>IDESourceControlWCCName</key>
-			<string>Platform-Version</string>
+			<string>DemoApp</string>
 		</dict>
 	</array>
 </dict>
