@@ -194,6 +194,19 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		C01130961ACE8102002A1D18 /* CustomViewControllers */ = {
+			isa = PBXGroup;
+			children = (
+				C0F188C0198A48F200E416B7 /* RestaurantViewController.h */,
+				C0F188C1198A48F200E416B7 /* RestaurantViewController.m */,
+				C0F188A1198A431E00E416B7 /* BankViewController.h */,
+				C0F188A2198A431E00E416B7 /* BankViewController.m */,
+				C0F18890198A321A00E416B7 /* NotebookViewController.h */,
+				C0F18891198A321A00E416B7 /* NotebookViewController.m */,
+			);
+			name = CustomViewControllers;
+			sourceTree = "<group>";
+		};
 		C0F18801198897B700E416B7 = {
 			isa = PBXGroup;
 			children = (
@@ -236,12 +249,6 @@
 				C0F1881D198897B700E416B7 /* AppDelegate.m */,
 				C0F1883E1988988900E416B7 /* RootViewController.h */,
 				C0F1883F1988988900E416B7 /* RootViewController.m */,
-				C0F188C0198A48F200E416B7 /* RestaurantViewController.h */,
-				C0F188C1198A48F200E416B7 /* RestaurantViewController.m */,
-				C0F188A1198A431E00E416B7 /* BankViewController.h */,
-				C0F188A2198A431E00E416B7 /* BankViewController.m */,
-				C0F18890198A321A00E416B7 /* NotebookViewController.h */,
-				C0F18891198A321A00E416B7 /* NotebookViewController.m */,
 				C0F1884C1988B83400E416B7 /* BeaconTableViewCell.h */,
 				C0F1884D1988B83400E416B7 /* BeaconTableViewCell.m */,
 				C0F188781988ED1600E416B7 /* ConfigViewController.h */,
@@ -250,6 +257,7 @@
 				C0F1887F1989EA1700E416B7 /* ConfigurationTemplateHandler.m */,
 				C0F1887B1988F72A00E416B7 /* ConfigTableViewCell.h */,
 				C0F1887C1988F72A00E416B7 /* ConfigTableViewCell.m */,
+				C01130961ACE8102002A1D18 /* CustomViewControllers */,
 				C0F18885198A1B9C00E416B7 /* MBProgressHUD */,
 				C0F18881198A102C00E416B7 /* KGModal */,
 				C0F1884F1988C89800E416B7 /* Resource */,
